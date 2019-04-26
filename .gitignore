@@ -1,0 +1,10 @@
+output
+train
+train_11k
+VOCdevkit
+VOCdevkit_eye
+test
+faster_rcnn_inception_v2_coco_2018_01_28
+object_detection
+slim
+test_image
